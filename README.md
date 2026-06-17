@@ -1,52 +1,55 @@
 # Splix-OS
 This is a OS for peapole that like prograing
 it is a base for developing a os
-------------------------------
-📋Ayuda e Información
 
-Descripción del comando
-ayuda Muestra esta ayuda
-Acerca de Describe Splix y SPLIXK
-sysinfo Muestra información del sistema
-tiempo de actividad Tiempo desde el arranque
 
---------------------------------
+📋Help and Information
+Command Description
+help Displays this help
+About Describes Splix and SPLIXK
+sysinfo Displays system information
+uptime Time since boot
 
-📁 Sistema de Archivos y Directorios
-Descripción del comando
-pwd Muestra el directorio actual
-cd <ruta> Cambia de directorio
-ls [ruta] Lista archivos
-mkdir <ruta> Crear directorios
-rm <archivo> Eliminar un archivo
-📝 Manejo de Archivos de Texto
-Descripción del comando
-cat <archivo> Muestra un archivo de texto
-escribir <archivo> <texto> Escribe texto en un archivo
-append <archivo> <texto> Agrega texto al final de un archivo
+----------------------------------
 
--------------------------------
-
-🔍 Procesos
-Descripción del comando
-ps Lista procesos lanzados por la shell
+📁 File System and Directories
+Command Description
+pwd Displays the current directory
+cd <path> Changes directory
+ls [path] Lists files
+mkdir <path> Creates directories
+rm <file> Deletes a file
 
 --------------------------------
 
-🐍Python y scripts
-Descripción del comando
-run <script.py> [args...] Ejecuta un script Python
-check <script.py> Valida la sintaxis con py_compile
-compilar <script.py> Compila un código de bytes .pyc
-dis <script.py> Muestra bytecode desensamblado
-py <código> Ejecuta una línea de Python
+📝 Text File Handling
+Command Description
+cat <file> Displays a text file
+write <file> <text> Writes text to a file
+append <file> <text> Appends text to the end of a file
+🔍 Processes
 
 --------------------------------
 
-🖥️Sistema y Control
-Descripción del comando
-clear Limpia la pantalla
-reiniciar Reinicia SPLIXK
-apagado o salida
+Command Description
+ps Lists processes launched by the shell
 
-Por SP o Bizancio11(github)
+--------------------------------
+
+🐍Python and Scripts
+Command Description
+run <script.py> [args...] Executes a Python script
+check <script.py> Validates syntax py_compile
+compile <script.py> Compiles a bytecode file .pyc
+dis <script.py> Displays disassembled bytecode
+py <code> Executes a line of Python
+
+-------------------------------------
+
+🖥️System and Control
+Command Description
+clear Clears the screen
+restart Restarts SPLIXK
+shutdown or exit
+
+By SP or Bizancio11(github)
