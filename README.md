@@ -52,4 +52,7 @@ clear Clears the screen
 restart Restarts SPLIXK
 shutdown or exit
 
+To execute in Linux or Windows>
+qemu-system-i386 -cdrom Splix3.iso
+
 By SP or Bizancio11(github)
